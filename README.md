@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub
 
-🚀 Computer Science Student | Full-Stack & Java Developer
+🚀 Computer Science Student | Backend & Java Developer
 
 I am a Computer Science undergraduate passionate about designing efficient solutions and building scalable applications. My focus is on Java development, full-stack web technologies, and API-driven projects.
 
@@ -12,7 +12,7 @@ I am a Computer Science undergraduate passionate about designing efficient solut
 
 📊 Core Areas:
 
-Full-Stack Development (MERN & Java Spring Boot)
+Backend Development (Java Spring Boot & API's)
 
 API Integration & Backend Systems 🔗
 
